@@ -1,0 +1,12 @@
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\bin\Debug\netcoreapp3.1\ProductCatalouge.Core.deps.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\bin\Debug\netcoreapp3.1\ProductCatalouge.Core.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\bin\Debug\netcoreapp3.1\ProductCatalouge.Core.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.AssemblyInfoInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.AssemblyInfo.cs
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.csproj.CoreCompileInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.csprojAssemblyReference.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Core\obj\Debug\netcoreapp3.1\ProductCatalouge.Core.csproj.CopyComplete

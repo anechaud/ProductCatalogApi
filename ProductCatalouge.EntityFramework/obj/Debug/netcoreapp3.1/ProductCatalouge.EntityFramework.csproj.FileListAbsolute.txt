@@ -1,0 +1,12 @@
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.deps.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.runtimeconfig.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.runtimeconfig.dev.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.AssemblyInfo.cs
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.genruntimeconfig.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.EntityFramework\obj\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.csprojAssemblyReference.cache

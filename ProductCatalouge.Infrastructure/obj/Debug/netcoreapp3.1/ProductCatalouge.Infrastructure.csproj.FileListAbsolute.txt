@@ -1,0 +1,17 @@
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.deps.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Core.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Core.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.AssemblyInfo.cs
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.csproj.CopyComplete
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.EntityFramework.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.runtimeconfig.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\bin\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.runtimeconfig.dev.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\ProductCatalouge.Infrastructure\obj\Debug\netcoreapp3.1\ProductCatalouge.Infrastructure.genruntimeconfig.cache

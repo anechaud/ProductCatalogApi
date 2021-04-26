@@ -1,0 +1,8 @@
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\bin\Debug\netcoreapp3.1\Logging.deps.json
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\bin\Debug\netcoreapp3.1\Logging.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\bin\Debug\netcoreapp3.1\Logging.pdb
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfoInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfo.cs
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\obj\Debug\netcoreapp3.1\Logging.csproj.CoreCompileInputs.cache
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\obj\Debug\netcoreapp3.1\Logging.dll
+C:\Users\ANEESHA_CHAUDHURY\source\repos\ProductCatalouge.Api\Logging\obj\Debug\netcoreapp3.1\Logging.pdb
