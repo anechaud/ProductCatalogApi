@@ -19,6 +19,7 @@ namespace ProductCatalouge.Api.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         [Route("post/products")]
         public async Task<ActionResult> AddProductsAsync([FromBody] List<ProductRequestModel> model)
         {
@@ -27,6 +28,7 @@ namespace ProductCatalouge.Api.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin, Developer")]
         [Route("put/product")]
         public async Task<ActionResult> UpdateProductAsync(ProductRequestModel model)
         {
@@ -35,6 +37,7 @@ namespace ProductCatalouge.Api.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         [Route("delete/product/{id}")]
         public async Task<ActionResult> DeleteProductAsync(int id)
         {
@@ -44,7 +47,7 @@ namespace ProductCatalouge.Api.Controllers
 
         [HttpGet]
         [Route("product/{id}")]
-        [Authorize(Roles = "Admin, Developer")]
+        [Authorize(Roles = "Admin, Developer,Viewer")]
         public async Task<ActionResult> GetProductAsync(int id)
         {
             var res = await _productService.GetProduct(id);
@@ -52,6 +55,7 @@ namespace ProductCatalouge.Api.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Developer,Viewer")]
         [Route("products")]
         public async Task<ActionResult> GetProductAsync()
         {
